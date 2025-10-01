@@ -127,7 +127,6 @@ lib/
 - Bu proje bir case study olarak geliştirilmiştir
 - Bazı API endpoint'leri mevcut olmadığı için mock data kullanılmıştır
 - GetX ve AutoRouter entegrasyonu özel olarak çözülmüştür
-- Proje production-ready bir mimari ile geliştirilmiştir
 - Genişletmeye ve bakıma uygun bir yapı kurulmuştur
 
 
