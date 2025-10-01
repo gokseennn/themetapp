@@ -2,7 +2,7 @@
 
 Metropolitan Museum sanat koleksiyonunu keşfetmek için geliştirilmiş modern bir Flutter uygulaması.
 
-> **Not:** Bu proje bir case study olarak geliştirilmiştir.
+> **Not:** Bu proje bir case study olarak sadece 8 saatte geliştirilmiştir.
 
 ---
 
