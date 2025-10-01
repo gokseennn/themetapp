@@ -122,41 +122,6 @@ lib/
 └── main.dart                      # Entry point
 ```
 
----
-
-## 🚀 Kurulum
-
-### Gereksinimler
-- Flutter SDK (>=3.6.0)
-- Dart SDK (>=3.6.0)
-- Android Studio / VS Code
-- iOS için: Xcode (MacOS)
-
-### Adımlar
-
-1. **Projeyi klonlayın**
-```bash
-git clone https://github.com/gokseennn/themetapp.git
-cd themetapp
-```
-
-2. **Bağımlılıkları yükleyin**
-```bash
-flutter pub get
-```
-
-3. **Route dosyalarını generate edin**
-```bash
-dart run build_runner build --delete-conflicting-outputs
-```
-
-4. **Uygulamayı çalıştırın**
-```bash
-flutter run
-```
-
----
-
 ## 📝 Notlar
 
 - Bu proje bir case study olarak geliştirilmiştir
@@ -165,12 +130,4 @@ flutter run
 - Proje production-ready bir mimari ile geliştirilmiştir
 - Genişletmeye ve bakıma uygun bir yapı kurulmuştur
 
----
 
-## 👨‍💻 Geliştirici
-
-**Gökşen** - [GitHub](https://github.com/gokseennn)
-
----
-
-⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın!
